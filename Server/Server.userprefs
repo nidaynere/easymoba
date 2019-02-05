@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AISpawner.cs">
+    <Files>
+      <File FileName="Assets\AIAgent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\settings.json" Line="4" Column="2" />
+      <File FileName="Assets\MapLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\ServerManager.cs" Line="203" Column="3" />
+      <File FileName="Assets\AISpawner.cs" Line="21" Column="26" />
+      <File FileName="Assets\Physik.cs" Line="1" Column="1" />
+      <File FileName="Assets\UNETServer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skill.cs" Line="1" Column="1" />
+      <File FileName="Assets\Callipso.cs" Line="136" Column="68" />
+      <File FileName="Assets\MTypes.cs" Line="1" Column="1" />
+      <File FileName="Assets\MobileAgent.cs" Line="155" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

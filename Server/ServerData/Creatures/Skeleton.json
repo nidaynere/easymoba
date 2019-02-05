@@ -1,0 +1,26 @@
+{
+	 "clientPrefab":"Skeleton",
+     "moveSpeed":3,
+	 "health":20,
+	 "collision":1,
+	 "heroType":1,
+	 "experience":8,
+	 "alias":"Skeleton Warrior",
+	 "vision":13,
+	 "skills":
+	 [
+		{
+			"clientPrefab":"Melee",
+			"moveSpeed":5,
+			"collision":3,
+			"effect":5,
+			"cooldown":0.5,
+			"casttime":0.2,
+			"life":0.5,
+			"hitAndDestroy":true,
+			"hitContinous":false,
+			"skillType":0,
+			"botsDecideChance":20
+		}
+	 ]
+}

@@ -1,0 +1,34 @@
+Version 0.1g -- 18.02.2018
+GameClient - Fixed: Grinding on high latency.
+GameServer - Fixed: Missing ServerData folder.
+
+Version 0.1f -- 16.02.2018
+GameClient - Fixed: Tweener.cs on GameClient causes fake latency on some mobile devices & pcs, but it was supposed to remove latency.
+So we won't use tweener anymore.
+GameClient - Fixed: If you clicked on Leave session, it will be remembered by UnityEngine.EventSystems so when you press the Submit button you will leave the session after joined to new session.
+GameClient - Fixed: Movement bug after game ends.
+GameClient - Fixed: Scores doesn't show at game ends.
+GameServer - Fixed: Skill request is working after game ends.
+Framerate Update: Both client & server frame rate is fixed to 60.
+
+Version 0.1e -- 09.02.2018
+Server - Fixed: Hook doesn't work sometimes. Skill.cs - Line:253 
+Server - Fixed: Wrong calculation of spamming causes spammer detection.
+Server - New: Created skills & buffs stays will be removed at the new round start.
+
+Version 0.1d -- 01.02.2018
+Server - Fixed: Frame rate is stabilized to 20 to fix lag on some devices.
+Server - Fixed: Faster mover skills could not touch.
+
+Version 0.1c -- 30.01.2018
+GameClient - Fixed auto target on GamePad
+GameClient - New hero: Robot
+GameClient - New skill effect: Hook
+Server - Added new skill type: Hook
+
+Version 0.1b -- 13.01.2018
+GameClient - Added AutoTarget system
+GameClient - Added a new 4 team 4vs4vs4vs4 map
+GameClient - Fixed a network message bug on UICastingItem
+Server - Fixed AIAgent map data
+Server - Added a config for the new map

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<title>Adding a Hero</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+	<a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+	<a href="https://www.assetstore.unity3d.com/en/#!/content/106794" target="_blank" class="w3-bar-item w3-button w3-padding-large"><img src="images/button/assetstore.png"></a>
+	<a href="index.html" class="w3-bar-item w3-button w3-padding-large">Updates</a>
+    <a href="features.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Features</a>
+    <a href="https://drive.google.com/drive/folders/1nBRQvLlJ42_PmdJKXCltRcsNO3RpGaAA"  target="_blank" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Download Demos</a>
+    <a href="mailto:support@easymoba.com?subject=EasyMOBA_Support" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Support</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="Documentation">Documentation <i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="WhatsEasyMOBA.html" class="w3-bar-item w3-button">What is EasyMOBA?</a>
+        <a href="UnderstandingtheServerArchitecture.html" class="w3-bar-item w3-button">Understanding Server Architecture</a>
+        <a href="UnderstandingtheClientArchitecture.html" class="w3-bar-item w3-button">Understanding Client Architecture</a>
+		<a href="AddingHero.html" class="w3-bar-item w3-button">Adding a Hero</a>
+		<a href="AddingCreature.html" class="w3-bar-item w3-button">Adding a Creature</a>
+		<a href="AddingMap.html" class="w3-bar-item w3-button">Adding a Map</a>
+		<a href="AddingGameMode.html" class="w3-bar-item w3-button">Adding Game Mode</a>
+		<a href="Languages.html" class="w3-bar-item w3-button">Editing & Adding Languages</a>
+		<a href="KeyController.html" class="w3-bar-item w3-button">Key Controller</a>
+		<a href="KeyBinder.html" class="w3-bar-item w3-button">Key Binder</a>
+      </div>
+    </div>
+
+	<div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="VideoTutorials">Video Tutorials <i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+			<a href="https://www.youtube.com/watch?v=tkAbHkk3qiw" target="_blank" class="w3-bar-item w3-button">Installation and Building Client & Server</a>
+			<a href="https://www.youtube.com/watch?v=DgC9T57EJms" target="_blank" class="w3-bar-item w3-button">Adding a Hero</a>
+			<a href="https://www.youtube.com/watch?v=KzEQd_s1TVw" target="_blank" class="w3-bar-item w3-button">Adding a Map</a>
+			<a href="https://www.youtube.com/watch?v=I0qJ9r49IQo" target="_blank" class="w3-bar-item w3-button">Adding a Creature</a>
+            <a href="https://www.youtube.com/watch?v=iKvA9sPy4pk" target="_blank" class="w3-bar-item w3-button">Adding a New Language</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Navbar on small screens -->
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+  <a href="index.html" class="w3-bar-item w3-button w3-padding-large">UPDATES</a>
+  <a href="https://www.youtube.com/channel/UC_Xg7EqRwpsTum-OGa2JW5w" class="w3-bar-item w3-button w3-padding-large">YOUTUBE</a>
+  <a href="https://www.assetstore.unity3d.com/en/#!/content/106794" class="w3-bar-item w3-button w3-padding-large">ASSET STORE</a>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+<!-- The Band Section -->
+<div class="w3-container w3-content w3-padding-64" style="max-width:1200px">
+
+<div class="panel">
+<p>
+Creating a hero is simple.<br><br>
+Heroes needs UI icons (hero and skill icons), skills and skill particles.
+<b>
+<br>Put your hero's prefab to Resources/Heroes/ folder.<br>
+Your hero will need an animator works with EasyMOBA. You can find the sample animator in the assets folder. Duplicate it by pressing CTRL+D and change (or leave it) the animations with your own animations. <a href="https://assetstore.unity.com/packages/3d/animations/rpg-character-mecanim-animation-pack-free-65284" target="_blank">The current animations</a> is only for Humanoid Skeleton.
+<br>
+<br><img src="images/doc/AddingHero_5.jpg">
+<br><img src="images/doc/AddingHero_0.jpg"><br><br>
+<br>Put your hero's skills (will be instanced as particle) to Resources/Skills/ folder 
+<br>Put your hero's skills' effects (will be instanced as particle) to Resources/SkillEffects/ folder. SkillEffects must have the same prefab name with the skill prefab name.
+<br>Put your hero's icon and skill icons to Resources/Icons/ folder
+</b><br><br>
+<br><img src="images/doc/AddingHero_4.jpg"><br><br><hr>
+Now, let's create .json file for the new hero on server side.<br>
+Go to ServerData folder. ServerData folder is placed in the server applications folder. If your server is Unity project, see the picture below.<br>
+<br><img src="images/doc/AddingMap_3.jpg"><br>
+Go to heroes folder.<br>
+<br><img src="images/doc/AddingHero_1.jpg"><br>
+You will see the current heroes there. Copy one of them to create new one, than name it. Name isn't important, it's just a file name.<br>
+<br><img src="images/doc/AddingHero_2.jpg"><br>
+Open the json file via any text editor. (<a href="https://notepad-plus-plus.org" target="_blank">Notepad++</a> is suggested)
+<br><img src="images/doc/AddingHero_3.jpg"><br>
+<br>
+<i>As default, player heroes must have maximum 3 skills because the limitation of Input Manager (KeyController.cs), but increasing this number is easy, you need to define a new keycode. Please check <a href="MoreSkills.html">this page</a></i>.
+<br><br>
+
+	 <br>"clientPrefab":"Wizard", // It's the client prefab name. Go to your Resources/Heroes folder, you will see Wizard prefab. Mean is enter here your hero prefab name.
+     <br>"moveSpeed":8, // Moving speed
+	 <br>"health":40, // Max health
+	 <br>"collision":1, // Collision size
+	 <br>"heroType":0, // 0= PlayerHero, 1= Creature. Heroes and creatures shares the same script.
+	 <br>"skills": // Skills list.
+	 <br><br>[
+		<br>{
+		<br>	"clientPrefab":"Fireball", // Skill prefab name. Go to your Resources/Skills/ folder, you will see Fireball prefab. Mean is enter here your skill prefab name.
+		<br>	"moveSpeed":12, // Moving speed of skill, if its moving
+		<br>	"collision":3,  // Hit radius
+		<br>	"damage":14, // Damage
+		<br>	"cooldown":1, // Skill cooldown
+		<br>	"casttime":0.25, // Casting time
+		<br>	"life":1, // Lifetime. This will be destroyed in 1 seconds.
+		<br>	"hitAndDestroy":true, // Will be destroyed when hit someone?
+		<br>	"hitContinous":false, // Keeps hitting, or once?
+		<br>	"skillType":0, // 0 is mover skill. 1 is area
+		<br>	"botsDecideChance":100 // AI Bots decide frequency.
+		<br>}
+			<br>]
+	<br>
+</p>
+</div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+  <a href="https://www.youtube.com/channel/UC_Xg7EqRwpsTum-OGa2JW5w" target="_blank"><img src="images/youtube.png"></a>
+  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+</div>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>

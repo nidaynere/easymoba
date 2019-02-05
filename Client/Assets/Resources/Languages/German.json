@@ -1,0 +1,289 @@
+{
+"list":
+[
+{
+"id": 0,
+"text": "Verbinden"
+},
+{
+"id": 1,
+"text": "Finde Übereinstimmung"
+},
+{
+"id": 2,
+"text": "Gib deinen Alias ​​ein"
+},
+{
+"id": 3,
+"text": "Runde abgeschlossen"
+},
+{
+"id": 4,
+"text": "Rund"
+},
+{
+"id": 5,
+"text": "DAS SPIEL BEGINNT!"
+},
+{
+"id": 6,
+"text": "Helden auswählen ..."
+},
+{
+"id": 7,
+"text": "Spiel suchen ..."
+},
+{
+"id": 8,
+"text": "Verbindung zum Server ..."
+},
+{
+"id": 9,
+"text": "Verbunden mit dem Server"
+},
+{
+"id": 10,
+"text": "Spieler"
+},
+{
+"id": 11,
+"text": "Lautstärke"
+},
+{
+"id": 12,
+"text": "Musikvolumen"
+},
+{
+"id": 13,
+"text": "Sprache"
+},
+{
+"id": 14,
+"text": "Spielsitzung"
+},
+{
+"id": 15,
+"text": "KI-Spieler hinzufügen"
+},
+{
+"id": 16,
+"text": "Sitzung verlassen"
+},
+{
+"id": 17,
+"text": "Das Spiel wird enden"
+},
+{
+"id": 18,
+"text": "Rundentimer"
+},
+{
+"id": 19,
+"text": "Auf andere Spieler warten"
+},
+{
+"id": 20,
+"text": "Das Spiel beginnt"
+},
+{
+"id": 21,
+"text": "<color=#f45942> Feuerball </color>"
+},
+{
+"id": 22,
+"text": "<color=#41cdf4> Blitz </color>"
+},
+{
+"id": 23,
+"text": "<color=#ffcc02> Feuerschwert </color>"
+},
+{
+"id": 24,
+"text": "<color=#6201ff> Klaue </color>"
+},
+{
+"id": 25,
+"text": "<color=#958ca3> Tornado </color>"
+},
+{
+"id": 26,
+"text": "<color=#b21e79> Skelette beschwören </color>"
+},
+{
+"id": 27,
+"text": "Wirkung"
+},
+{
+"id": 28,
+"text": "Zauberzeit"
+},
+{
+"id": 29,
+"text": "Sofort"
+},
+{
+"id": 30,
+"text": "Abklingzeit"
+},
+{
+"id": 31,
+"text": "Sekunden"
+},
+{
+"id": 32,
+"text": "Fähigkeitstyp"
+},
+{
+"id": 33,
+"text": "Projektil"
+},
+{
+"id": 34,
+"text": "Bereich"
+},
+{
+"id": 35,
+"text": "Geschwindigkeit"
+},
+{
+"id": 36,
+"text": "Meter pro Sekunde"
+},
+{
+"id": 37,
+"text": "Leben"
+},
+{
+"id": 38,
+"text": "Treffer Radius"
+},
+{
+"id": 39,
+"text": "Meter"
+},
+{
+"id": 40,
+"text": "<i> Diese Fähigkeit wird zerstört, wenn sie getroffen wird. </i>"
+},
+{
+"id": 41,
+"text": "<i> <size=22> <color=#e5f442> Diese Fähigkeit wirkt sich pro Sekunde aus. </color> </size> </i>"
+},
+{
+"id": 42,
+"text": "<i> Spielsitzung ist beendet. Sie können jederzeit gehen. </i>"
+},
+{
+"id": 43,
+"text": "Spielinhalte werden geladen"
+},
+{
+"id": 44,
+"text": "Ebene"
+},
+{
+"id": 45,
+"text": "Erfahrung"
+},
+{
+"id": 46,
+"text": "Tötet"
+},
+{
+"id": 47,
+"text": "Todesfälle"
+},
+{
+"id": 48,
+"text": "Erforderliches Niveau"
+},
+{
+"id": 50,
+"text": "Gesundheit"
+},
+{
+"id": 51,
+"text": "Schaden"
+},
+{
+"id": 52,
+"text": "Schnelleres Casting"
+},
+{
+"id": 53,
+"text": "Abklingzeit reduzieren"
+},
+{
+"id": 54,
+"text": "Geschwindigkeit bewegen"
+},
+{
+"id": 55,
+"text": "Wald - Team Deathmatch"
+},
+{
+"id": 56,
+"text": "Deathmatch"
+},
+{
+"id": 57,
+"text": "Stelle dich dem Skelettkönig"
+},
+{
+"id": 58,
+"text": "Letzte Runde!"
+},
+{
+"id": 59,
+"text": "Ebene hoch!"
+},
+{
+"id": 60,
+"text": "Geprügelt von"
+},
+{
+"id": 61,
+"text": "Gift"
+},
+{
+"id": 62,
+"text": "Heilen"
+},
+{
+"id": 63,
+"text": "Betäuben"
+},
+{
+"id": 64,
+"text": "Wirbelwind"
+},
+{
+"id": 65,
+"text": "Brennende Füße"
+},
+{
+"id": 66,
+"text": "Selbst"
+},
+{
+"id": 67,
+"text": "Effektzeit"
+},
+{
+	"id":72,
+	"text":"AUTO Target"
+},
+{
+	"id":73,
+	"text":"Snowy Big Map"
+},
+{
+	"id":74,
+	"text":"Hook"
+},
+{
+	"id":75,
+	"text":"Melee"
+}
+]
+}

@@ -1,0 +1,305 @@
+{
+	"list":
+	[
+		{
+			"id":0,
+			"text":"Connect"
+		},
+		{
+			"id":1,
+			"text":"Find Match"
+		},	
+		{
+			"id":2,
+			"text":"Enter your alias"
+		},	
+		{
+			"id":3,
+			"text":"Round Completed"
+		},
+		{
+			"id":4,
+			"text":"Round "
+		},
+		{
+			"id":5,
+			"text":"THE GAME BEGINS!"
+		},
+		{
+			"id":6,
+			"text":"Selecting hero..."
+		},
+		{
+			"id":7,
+			"text":"Searching game..."
+		},
+		{
+			"id":8,
+			"text":"Connecting to server..."
+		},
+		{
+			"id":9,
+			"text":"Connected to server."
+		},
+		{
+			"id":10,
+			"text":"Player"
+		},
+		{
+			"id":11,
+			"text":"Sound Volume"
+		},
+		{
+			"id":12,
+			"text":"Music Volume"
+		},
+		{
+			"id":13,
+			"text":"Language"
+		},
+		{
+			"id":14,
+			"text":"Game Session"
+		},
+		{
+			"id":15,
+			"text":"Add AI Player"
+		},
+		{
+			"id":16,
+			"text":"Leave Session"
+		},
+		{
+			"id":17,
+			"text":"Game will finish in"
+		},
+		{
+			"id":18,
+			"text":"Round Timer"
+		},
+		{
+			"id":19,
+			"text":"Waiting for other players"
+		},
+		{
+			"id":20,
+			"text":"Game is starting"
+		},
+		{
+			"id":21,
+			"text":"<color=#f45942>Fireball</color>"
+		},
+		{
+			"id":22,
+			"text":"<color=#41cdf4>Lightning</color>"
+		},
+		{
+			"id":23,
+			"text":"<color=#ffcc02>Fire Sword</color>"
+		},
+		{
+			"id":24,
+			"text":"<color=#6201ff>Claw</color>"
+		},
+		{
+			"id":25,
+			"text":"<color=#958ca3>Tornado</color>"
+		},
+		{
+			"id":26,
+			"text":"<color=#b21e79>Summon Skeletons</color>"
+		},
+		{
+			"id":27,
+			"text":"Effect"
+		},
+		{
+			"id":28,
+			"text":"Cast time"
+		},
+		{
+			"id":29,
+			"text":"Instant"
+		},
+		{
+			"id":30,
+			"text":"Cooldown"
+		},
+		{
+			"id":31,
+			"text":"seconds"
+		},
+		{
+			"id":32,
+			"text":"Skill Type"
+		},
+		{
+			"id":33,
+			"text":"Projectile"
+		},
+		{
+			"id":34,
+			"text":"Area"
+		},
+		{
+			"id":35,
+			"text":"Speed"
+		},
+		{
+			"id":36,
+			"text":"meter per second."
+		},
+		{
+			"id":37,
+			"text":"Life"
+		},
+		{
+			"id":38,
+			"text":"Hit Radius"
+		},
+		{
+			"id":39,
+			"text":"meters"
+		},
+		{
+			"id":40,
+			"text":"<i>This skill get destroy when hit.</i>"
+		},
+		{
+			"id":41,
+			"text":"<i><size=22><color=#e5f442>This skill effects per second.</color></size></i>"
+		},
+		{
+			"id":42,
+			"text":"<i>Game session is ended. You can leave anytime. </i>"
+		},
+		{
+			"id":43,
+			"text":"Loading game assets"
+		},
+		{
+			"id":44,
+			"text":"Level"
+		},
+		{
+			"id":45,
+			"text":"Experience"
+		},
+		{
+			"id":46,
+			"text":"Kills"
+		},
+		{
+			"id":47,
+			"text":"Deaths"
+		},
+		{
+			"id":48,
+			"text":"Required Level"
+		},
+		{
+			"id":50,
+			"text":"Health"
+		},
+		{
+			"id":51,
+			"text":"Damage"
+		},
+		{
+			"id":52,
+			"text":"Faster casting"
+		},
+		{
+			"id":53,
+			"text":"Cooldown Reduction"
+		},
+		{
+			"id":54,
+			"text":"Move Speed"
+		},
+		{
+			"id":55,
+			"text":"Forest - Team Deathmatch"
+		},
+		{
+			"id":56,
+			"text":"Deathmatch"
+		},
+		{
+			"id":57,
+			"text":"Face the Skeleton King"
+		},
+		{
+			"id":58,
+			"text":"Last Round!"
+		},
+		{
+			"id":59,
+			"text":"Level UP!"
+		},
+		{
+			"id":60,
+			"text":"slained by"
+		},
+		{
+			"id":61,
+			"text":"Poison"
+		},
+		{
+			"id":62,
+			"text":"Heal"
+		},
+		{
+			"id":63,
+			"text":"Stun"
+		},
+		{
+			"id":64,
+			"text":"Whirlwind"
+		},
+		{
+			"id":65,
+			"text":"Burning Foots"
+		},
+		{
+			"id":66,
+			"text":"Self"
+		},
+		{
+			"id":67,
+			"text":"Effect Time"
+		},
+		{
+			"id":68,
+			"text":"Fatal Blade"
+		},
+		{
+			"id":69,
+			"text":"Teleport"
+		},
+		{
+			"id":70,
+			"text":"Throw Dagger"
+		},
+		{
+			"id":71,
+			"text":"Test Map"
+		},
+		{
+			"id":72,
+			"text":"AUTO Target"
+		},
+		{
+			"id":73,
+			"text":"Snowy Big Map"
+		},
+		{
+			"id":74,
+			"text":"Hook"
+		},
+		{
+			"id":75,
+			"text":"Melee"
+		}
+	]
+}

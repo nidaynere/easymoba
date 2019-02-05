@@ -1,0 +1,2 @@
+I have encountered some y floating problems if I didn't enter the y value of a vector3 in a json file.
+Be careful. Y values must be always 0

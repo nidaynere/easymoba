@@ -1,0 +1,26 @@
+Welcome to EasyMOBA version 0.1f (16 February 2017) Unity Version: Unity2017.3
+
+This guide will help you to first-running EasyMOBA Game Client & Server.
+
+This is the Game Client project you have downloaded from Unity Asset Store.
+
+You can see the server file (ServerProject.zip) in your project. That's the server. It's a different Unity Project.
+You should extract that zip and open with Unity.
+
+When you run the two projects, they can connect each other.
+The game client connects always 127.0.0.1 (Local server) because of the settings.json file you can find it in your Resources folder.
+But there is a different method, an input field is placed on your UI for debugging.
+If you enter a custom ip into that input field while on playing, the game client will connect to that address.
+
+For more information, visit www.easymoba.com. Check the documentation and tutorial videos.
+
+If you have any questions, just drop a mail to: mobaeasy@gmail.com
+
+Thanks for purchasing EasyMOBA, we hope you will be glad your purchase.
+
+Sincerely,
+EasyMOBA Team
+
+EasyMOBA Requires at least Unity2017.3
+
+https://www.youtube.com/channel/UC_Xg7EqRwpsTum-OGa2JW5w

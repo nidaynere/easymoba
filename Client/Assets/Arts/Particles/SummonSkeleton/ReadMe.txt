@@ -1,0 +1,1 @@
+This icon taken from: https://opengameart.org/content/painterly-spell-icons-part-3

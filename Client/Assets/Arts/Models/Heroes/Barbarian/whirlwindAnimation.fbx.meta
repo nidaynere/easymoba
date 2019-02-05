@@ -1,0 +1,1123 @@
+fileFormatVersion: 2
+guid: fbcb6dd4799a6f947818b8a4d9c3cfa4
+timeCreated: 1514070420
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rig1_0001:BarbarianGirl1
+    100002: Rig1_0001:BarbarianGirl:ArmFloat
+    100004: Rig1_0001:BarbarianGirl:ArmFur
+    100006: Rig1_0001:BarbarianGirl:ArmorBelt
+    100008: Rig1_0001:BarbarianGirl:Belt
+    100010: Rig1_0001:BarbarianGirl:Body
+    100012: Rig1_0001:BarbarianGirl:Bra
+    100014: Rig1_0001:BarbarianGirl:Eyelash
+    100016: Rig1_0001:BarbarianGirl:Eyes
+    100018: Rig1_0001:BarbarianGirl:Fabric
+    100020: Rig1_0001:BarbarianGirl:Hair
+    100022: Rig1_0001:BarbarianGirl:Head
+    100024: Rig1_0001:BarbarianGirl:ShoeFur
+    100026: Rig1_0001:BarbarianGirl:Shoes
+    100028: Rig1_0001:BarbarianGirl:Shoulder_Armor
+    100030: Rig1_0001:Character1_Head
+    100032: Rig1_0001:Character1_Hips
+    100034: Rig1_0001:Character1_LeftArm
+    100036: Rig1_0001:Character1_LeftFoot
+    100038: Rig1_0001:Character1_LeftForeArm
+    100040: Rig1_0001:Character1_LeftHand
+    100042: Rig1_0001:Character1_LeftHandIndex1
+    100044: Rig1_0001:Character1_LeftHandIndex2
+    100046: Rig1_0001:Character1_LeftHandIndex3
+    100048: Rig1_0001:Character1_LeftHandIndex4
+    100050: Rig1_0001:Character1_LeftHandMiddle1
+    100052: Rig1_0001:Character1_LeftHandMiddle2
+    100054: Rig1_0001:Character1_LeftHandMiddle3
+    100056: Rig1_0001:Character1_LeftHandMiddle4
+    100058: Rig1_0001:Character1_LeftHandPinky1
+    100060: Rig1_0001:Character1_LeftHandPinky2
+    100062: Rig1_0001:Character1_LeftHandPinky3
+    100064: Rig1_0001:Character1_LeftHandPinky4
+    100066: Rig1_0001:Character1_LeftHandRing1
+    100068: Rig1_0001:Character1_LeftHandRing2
+    100070: Rig1_0001:Character1_LeftHandRing3
+    100072: Rig1_0001:Character1_LeftHandRing4
+    100074: Rig1_0001:Character1_LeftHandThumb1
+    100076: Rig1_0001:Character1_LeftHandThumb2
+    100078: Rig1_0001:Character1_LeftHandThumb3
+    100080: Rig1_0001:Character1_LeftHandThumb4
+    100082: Rig1_0001:Character1_LeftLeg
+    100084: Rig1_0001:Character1_LeftShoulder
+    100086: Rig1_0001:Character1_LeftToeBase
+    100088: Rig1_0001:Character1_LeftUpLeg
+    100090: Rig1_0001:Character1_Neck
+    100092: Rig1_0001:Character1_Reference
+    100094: Rig1_0001:Character1_RightArm
+    100096: Rig1_0001:Character1_RightFoot
+    100098: Rig1_0001:Character1_RightForeArm
+    100100: Rig1_0001:Character1_RightHand
+    100102: Rig1_0001:Character1_RightHandIndex1
+    100104: Rig1_0001:Character1_RightHandIndex2
+    100106: Rig1_0001:Character1_RightHandIndex3
+    100108: Rig1_0001:Character1_RightHandIndex4
+    100110: Rig1_0001:Character1_RightHandMiddle1
+    100112: Rig1_0001:Character1_RightHandMiddle2
+    100114: Rig1_0001:Character1_RightHandMiddle3
+    100116: Rig1_0001:Character1_RightHandMiddle4
+    100118: Rig1_0001:Character1_RightHandPinky1
+    100120: Rig1_0001:Character1_RightHandPinky2
+    100122: Rig1_0001:Character1_RightHandPinky3
+    100124: Rig1_0001:Character1_RightHandPinky4
+    100126: Rig1_0001:Character1_RightHandRing1
+    100128: Rig1_0001:Character1_RightHandRing2
+    100130: Rig1_0001:Character1_RightHandRing3
+    100132: Rig1_0001:Character1_RightHandRing4
+    100134: Rig1_0001:Character1_RightHandThumb1
+    100136: Rig1_0001:Character1_RightHandThumb2
+    100138: Rig1_0001:Character1_RightHandThumb3
+    100140: Rig1_0001:Character1_RightHandThumb4
+    100142: Rig1_0001:Character1_RightLeg
+    100144: Rig1_0001:Character1_RightShoulder
+    100146: Rig1_0001:Character1_RightToeBase
+    100148: Rig1_0001:Character1_RightUpLeg
+    100150: Rig1_0001:Character1_Spine
+    100152: Rig1_0001:Character1_Spine1
+    100154: Rig1_0001:Character1_Spine2
+    100156: //RootNode
+    400000: Rig1_0001:BarbarianGirl1
+    400002: Rig1_0001:BarbarianGirl:ArmFloat
+    400004: Rig1_0001:BarbarianGirl:ArmFur
+    400006: Rig1_0001:BarbarianGirl:ArmorBelt
+    400008: Rig1_0001:BarbarianGirl:Belt
+    400010: Rig1_0001:BarbarianGirl:Body
+    400012: Rig1_0001:BarbarianGirl:Bra
+    400014: Rig1_0001:BarbarianGirl:Eyelash
+    400016: Rig1_0001:BarbarianGirl:Eyes
+    400018: Rig1_0001:BarbarianGirl:Fabric
+    400020: Rig1_0001:BarbarianGirl:Hair
+    400022: Rig1_0001:BarbarianGirl:Head
+    400024: Rig1_0001:BarbarianGirl:ShoeFur
+    400026: Rig1_0001:BarbarianGirl:Shoes
+    400028: Rig1_0001:BarbarianGirl:Shoulder_Armor
+    400030: Rig1_0001:Character1_Head
+    400032: Rig1_0001:Character1_Hips
+    400034: Rig1_0001:Character1_LeftArm
+    400036: Rig1_0001:Character1_LeftFoot
+    400038: Rig1_0001:Character1_LeftForeArm
+    400040: Rig1_0001:Character1_LeftHand
+    400042: Rig1_0001:Character1_LeftHandIndex1
+    400044: Rig1_0001:Character1_LeftHandIndex2
+    400046: Rig1_0001:Character1_LeftHandIndex3
+    400048: Rig1_0001:Character1_LeftHandIndex4
+    400050: Rig1_0001:Character1_LeftHandMiddle1
+    400052: Rig1_0001:Character1_LeftHandMiddle2
+    400054: Rig1_0001:Character1_LeftHandMiddle3
+    400056: Rig1_0001:Character1_LeftHandMiddle4
+    400058: Rig1_0001:Character1_LeftHandPinky1
+    400060: Rig1_0001:Character1_LeftHandPinky2
+    400062: Rig1_0001:Character1_LeftHandPinky3
+    400064: Rig1_0001:Character1_LeftHandPinky4
+    400066: Rig1_0001:Character1_LeftHandRing1
+    400068: Rig1_0001:Character1_LeftHandRing2
+    400070: Rig1_0001:Character1_LeftHandRing3
+    400072: Rig1_0001:Character1_LeftHandRing4
+    400074: Rig1_0001:Character1_LeftHandThumb1
+    400076: Rig1_0001:Character1_LeftHandThumb2
+    400078: Rig1_0001:Character1_LeftHandThumb3
+    400080: Rig1_0001:Character1_LeftHandThumb4
+    400082: Rig1_0001:Character1_LeftLeg
+    400084: Rig1_0001:Character1_LeftShoulder
+    400086: Rig1_0001:Character1_LeftToeBase
+    400088: Rig1_0001:Character1_LeftUpLeg
+    400090: Rig1_0001:Character1_Neck
+    400092: Rig1_0001:Character1_Reference
+    400094: Rig1_0001:Character1_RightArm
+    400096: Rig1_0001:Character1_RightFoot
+    400098: Rig1_0001:Character1_RightForeArm
+    400100: Rig1_0001:Character1_RightHand
+    400102: Rig1_0001:Character1_RightHandIndex1
+    400104: Rig1_0001:Character1_RightHandIndex2
+    400106: Rig1_0001:Character1_RightHandIndex3
+    400108: Rig1_0001:Character1_RightHandIndex4
+    400110: Rig1_0001:Character1_RightHandMiddle1
+    400112: Rig1_0001:Character1_RightHandMiddle2
+    400114: Rig1_0001:Character1_RightHandMiddle3
+    400116: Rig1_0001:Character1_RightHandMiddle4
+    400118: Rig1_0001:Character1_RightHandPinky1
+    400120: Rig1_0001:Character1_RightHandPinky2
+    400122: Rig1_0001:Character1_RightHandPinky3
+    400124: Rig1_0001:Character1_RightHandPinky4
+    400126: Rig1_0001:Character1_RightHandRing1
+    400128: Rig1_0001:Character1_RightHandRing2
+    400130: Rig1_0001:Character1_RightHandRing3
+    400132: Rig1_0001:Character1_RightHandRing4
+    400134: Rig1_0001:Character1_RightHandThumb1
+    400136: Rig1_0001:Character1_RightHandThumb2
+    400138: Rig1_0001:Character1_RightHandThumb3
+    400140: Rig1_0001:Character1_RightHandThumb4
+    400142: Rig1_0001:Character1_RightLeg
+    400144: Rig1_0001:Character1_RightShoulder
+    400146: Rig1_0001:Character1_RightToeBase
+    400148: Rig1_0001:Character1_RightUpLeg
+    400150: Rig1_0001:Character1_Spine
+    400152: Rig1_0001:Character1_Spine1
+    400154: Rig1_0001:Character1_Spine2
+    400156: //RootNode
+    2100000: Rig1_0001_BarbarianGirl_Material__29
+    2100002: Rig1_0001_BarbarianGirl_Material__31
+    4300000: Rig1_0001:BarbarianGirl:Body
+    4300002: Rig1_0001:BarbarianGirl:Head
+    4300004: Rig1_0001:BarbarianGirl:Hair
+    4300006: Rig1_0001:BarbarianGirl:Shoulder_Armor
+    4300008: Rig1_0001:BarbarianGirl:Bra
+    4300010: Rig1_0001:BarbarianGirl:Belt
+    4300012: Rig1_0001:BarbarianGirl:Fabric
+    4300014: Rig1_0001:BarbarianGirl:ArmorBelt
+    4300016: Rig1_0001:BarbarianGirl:Shoes
+    4300018: Rig1_0001:BarbarianGirl:ShoeFur
+    4300020: Rig1_0001:BarbarianGirl:ArmFloat
+    4300022: Rig1_0001:BarbarianGirl:ArmFur
+    4300024: Rig1_0001:BarbarianGirl:Eyes
+    4300026: Rig1_0001:BarbarianGirl:Eyelash
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Rig1_0001:BarbarianGirl:ArmFloat
+    13700002: Rig1_0001:BarbarianGirl:ArmFur
+    13700004: Rig1_0001:BarbarianGirl:ArmorBelt
+    13700006: Rig1_0001:BarbarianGirl:Belt
+    13700008: Rig1_0001:BarbarianGirl:Body
+    13700010: Rig1_0001:BarbarianGirl:Bra
+    13700012: Rig1_0001:BarbarianGirl:Eyelash
+    13700014: Rig1_0001:BarbarianGirl:Eyes
+    13700016: Rig1_0001:BarbarianGirl:Fabric
+    13700018: Rig1_0001:BarbarianGirl:Hair
+    13700020: Rig1_0001:BarbarianGirl:Head
+    13700022: Rig1_0001:BarbarianGirl:ShoeFur
+    13700024: Rig1_0001:BarbarianGirl:Shoes
+    13700026: Rig1_0001:BarbarianGirl:Shoulder_Armor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Rig1_0001:Character1_LeftLeg' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 4
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Rig1_0001:Character1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rig1_0001:Character1_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: whirlwindAnimation(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl1
+      parentName: whirlwindAnimation(Clone)
+      position: {x: -0, y: 0, z: 0.014806761}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 24.4065, y: 24.4065, z: 24.4065}
+    - name: Rig1_0001:BarbarianGirl:ArmFloat
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:ArmFur
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:ArmorBelt
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Belt
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Body
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Bra
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Eyelash
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Eyes
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Fabric
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Hair
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Head
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:ShoeFur
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Shoes
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:BarbarianGirl:Shoulder_Armor
+      parentName: Rig1_0001:BarbarianGirl1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:Character1_Reference
+      parentName: whirlwindAnimation(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:Character1_Hips
+      parentName: Rig1_0001:Character1_Reference
+      position: {x: 0.0004150333, y: 1.0055578, z: -0.16963467}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:Character1_LeftUpLeg
+      parentName: Rig1_0001:Character1_Hips
+      position: {x: -0.13156913, y: -0.06270004, z: 0.000000009099507}
+      rotation: {x: 5.6878645e-20, y: -2.3849245e-10, z: 1.1924622e-10, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Rig1_0001:Character1_LeftLeg
+      parentName: Rig1_0001:Character1_LeftUpLeg
+      position: {x: -0.000000014047792, y: -0.44878674, z: 0.0000000011337039}
+      rotation: {x: 8.531798e-19, y: 2.3849245e-10, z: 0.0000000036966334, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000001}
+    - name: Rig1_0001:Character1_LeftFoot
+      parentName: Rig1_0001:Character1_LeftLeg
+      position: {x: 0.015499456, y: -0.41600668, z: -0.04986493}
+      rotation: {x: -2.5332406e-24, y: -0.000000007631759, z: -0.000000007631759,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Rig1_0001:Character1_LeftToeBase
+      parentName: Rig1_0001:Character1_LeftFoot
+      position: {x: -0.011820721, y: -0.0506023, z: 0.13417849}
+      rotation: {x: -0, y: -0, z: -1.9333082e-32, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Rig1_0001:Character1_RightUpLeg
+      parentName: Rig1_0001:Character1_Hips
+      position: {x: 0.13156918, y: -0.06270004, z: -0.0000000063104806}
+      rotation: {x: -0.000000015263517, y: 0.000000030527037, z: 0.00000001526352,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Rig1_0001:Character1_RightLeg
+      parentName: Rig1_0001:Character1_RightUpLeg
+      position: {x: -0.00000040076378, y: -0.44878647, z: 0.0000005090934}
+      rotation: {x: 0.000000015263517, y: -0.000000030527037, z: -0.000000022895279,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Rig1_0001:Character1_RightFoot
+      parentName: Rig1_0001:Character1_RightLeg
+      position: {x: -0.015499481, y: -0.41600737, z: -0.049864966}
+      rotation: {x: 0.0000000011924612, y: -0.000000015263517, z: 0.000000007870251,
+        w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999976}
+    - name: Rig1_0001:Character1_RightToeBase
+      parentName: Rig1_0001:Character1_RightFoot
+      position: {x: 0.011820729, y: -0.050602287, z: 0.13417831}
+      rotation: {x: -7.155069e-10, y: -0.00004188309, z: 2.3856228e-10, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Rig1_0001:Character1_Spine
+      parentName: Rig1_0001:Character1_Hips
+      position: {x: 0.0000000025651867, y: 0.07, z: 0.004724962}
+      rotation: {x: 0.000000007631758, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:Character1_Spine1
+      parentName: Rig1_0001:Character1_Spine
+      position: {x: 0.0000000036011083, y: 0.12642287, z: 0.002315147}
+      rotation: {x: -0.000000007631758, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig1_0001:Character1_Spine2
+      parentName: Rig1_0001:Character1_Spine1
+      position: {x: 0.0000000028045766, y: 0.12642282, z: -0.01396785}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Rig1_0001:Character1_LeftShoulder
+      parentName: Rig1_0001:Character1_Spine2
+      position: {x: -0.14387526, y: 0.10681013, z: -0.04697333}
+      rotation: {x: -0.000000005697398, y: 0.015138233, z: -0.098080106, w: 0.99506336}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Rig1_0001:Character1_LeftArm
+      parentName: Rig1_0001:Character1_LeftShoulder
+      position: {x: -0.09323442, y: -0.053015497, z: -0.008182732}
+      rotation: {x: 0.006311208, y: -0.010888389, z: -0.13480957, w: 0.9907916}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: Rig1_0001:Character1_LeftForeArm
+      parentName: Rig1_0001:Character1_LeftArm
+      position: {x: -0.14068553, y: -0.08372317, z: 0.0001760386}
+      rotation: {x: -0.00000003052841, y: -0.000000045791914, z: -0.00008981053, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Rig1_0001:Character1_LeftHand
+      parentName: Rig1_0001:Character1_LeftForeArm
+      position: {x: -0.18381038, y: -0.10414701, z: 0.0048223427}
+      rotation: {x: 0.000000064896675, y: 0.000000015292471, z: 0.0005838983, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Rig1_0001:Character1_LeftHandThumb1
+      parentName: Rig1_0001:Character1_LeftHand
+      position: {x: -0.033544805, y: -0.023544515, z: 0.04455432}
+      rotation: {x: -0.12648135, y: -0.11566059, z: -0.12754776, w: 0.97691184}
+      scale: {x: 1.0000004, y: 1.0000006, z: 0.9999999}
+    - name: Rig1_0001:Character1_LeftHandThumb2
+      parentName: Rig1_0001:Character1_LeftHandThumb1
+      position: {x: -0.0052437936, y: -0.016326997, z: 0.02039689}
+      rotation: {x: -0.034097858, y: 0.105724126, z: 0.08187399, w: 0.9904325}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1}
+    - name: Rig1_0001:Character1_LeftHandThumb3
+      parentName: Rig1_0001:Character1_LeftHandThumb2
+      position: {x: -0.0129264705, y: -0.015268784, z: 0.015701145}
+      rotation: {x: 0.00000006466847, y: -0.000000046522167, z: -0.012848168, w: 0.99991745}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: Rig1_0001:Character1_LeftHandThumb4
+      parentName: Rig1_0001:Character1_LeftHandThumb3
+      position: {x: -0.013139092, y: -0.01635381, z: 0.016464198}
+      rotation: {x: -0.00000006015873, y: 0.00000001643926, z: 0.019304106, w: 0.9998136}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: Rig1_0001:Character1_LeftHandIndex1
+      parentName: Rig1_0001:Character1_LeftHand
+      position: {x: -0.09266298, y: -0.039775617, z: 0.039778247}
+      rotation: {x: -0.0036813081, y: -0.046232924, z: -0.17198445, w: 0.9840073}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: Rig1_0001:Character1_LeftHandIndex2
+      parentName: Rig1_0001:Character1_LeftHandIndex1
+      position: {x: -0.027208025, y: -0.03104011, z: 0.009031742}
+      rotation: {x: 0.000112144575, y: -0.017452048, z: 0.0064193127, w: 0.99982715}
+      scale: {x: 0.9999996, y: 1.0000005, z: 1}
+    - name: Rig1_0001:Character1_LeftHandIndex3
+      parentName: Rig1_0001:Character1_LeftHandIndex2
+      position: {x: -0.017129885, y: -0.019275298, z: 0.006274486}
+      rotation: {x: 0.0017847056, y: 0.22493736, z: -0.012666092, w: 0.9742893}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: Rig1_0001:Character1_LeftHandIndex4
+      parentName: Rig1_0001:Character1_LeftHandIndex3
+      position: {x: -0.013046073, y: -0.014550172, z: -0.0012476426}
+      rotation: {x: -0.010216515, y: 0.9780183, z: -0.013878651, w: -0.20780568}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: Rig1_0001:Character1_LeftHandMiddle1
+      parentName: Rig1_0001:Character1_LeftHand
+      position: {x: -0.09955551, y: -0.036026645, z: 0.012037207}
+      rotation: {x: -0.019565197, y: -0.019976387, z: -0.22412817, w: 0.9741585}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: Rig1_0001:Character1_LeftHandMiddle2
+      parentName: Rig1_0001:Character1_LeftHandMiddle1
+      position: {x: -0.028028285, y: -0.039286107, z: 0.0060114483}
+      rotation: {x: 0.00000023007783, y: -0.000031007796, z: 0.0064229295, w: 0.99997944}
+      scale: {x: 0.9999997, y: 1.000001, z: 1}
+    - name: Rig1_0001:Character1_LeftHandMiddle3
+      parentName: Rig1_0001:Character1_LeftHandMiddle2
+      position: {x: -0.016222266, y: -0.022131464, z: 0.003418997}
+      rotation: {x: 0.0000032191356, y: 0.00040414912, z: -0.0128456075, w: 0.9999174}
+      scale: {x: 1.0000011, y: 1.0000005, z: 0.9999998}
+    - name: Rig1_0001:Character1_LeftHandMiddle4
+      parentName: Rig1_0001:Character1_LeftHandMiddle3
+      position: {x: -0.011351792, y: -0.016348975, z: 0.0024706102}
+      rotation: {x: 0.000020953285, y: -0.0024251996, z: 0.019267706, w: 0.9998115}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000006}
+    - name: Rig1_0001:Character1_LeftHandRing1
+      parentName: Rig1_0001:Character1_LeftHand
+      position: {x: -0.10031404, y: -0.040655226, z: -0.010960919}
+      rotation: {x: -0.03650285, y: 0.010359862, z: -0.27268505, w: 0.96135485}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999976}
+    - name: Rig1_0001:Character1_LeftHandRing2
+      parentName: Rig1_0001:Character1_LeftHandRing1
+      position: {x: -0.022850087, y: -0.03917194, z: 0.0015980146}
+      rotation: {x: 0.00000020732958, y: -0.000031060477, z: 0.0064229136, w: 0.99997944}
+      scale: {x: 0.99999934, y: 1.0000006, z: 1}
+    - name: Rig1_0001:Character1_LeftHandRing3
+      parentName: Rig1_0001:Character1_LeftHandRing2
+      position: {x: -0.0118589755, y: -0.019743044, z: 0.0008123188}
+      rotation: {x: 0.0000032037217, y: 0.0004042129, z: -0.012845574, w: 0.9999174}
+      scale: {x: 1.0000005, y: 0.9999998, z: 0.9999998}
+    - name: Rig1_0001:Character1_LeftHandRing4
+      parentName: Rig1_0001:Character1_LeftHandRing3
+      position: {x: -0.009471613, y: -0.01672624, z: 0.0006701793}
+      rotation: {x: 0.000020983925, y: -0.002425267, z: 0.019267682, w: 0.9998115}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: Rig1_0001:Character1_LeftHandPinky1
+      parentName: Rig1_0001:Character1_LeftHand
+      position: {x: -0.08691055, y: -0.03784636, z: -0.036007483}
+      rotation: {x: -0.062342763, y: 0.08138119, z: -0.2722721, w: 0.95674366}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1}
+    - name: Rig1_0001:Character1_LeftHandPinky2
+      parentName: Rig1_0001:Character1_LeftHandPinky1
+      position: {x: -0.015446855, y: -0.02589039, z: -0.004211603}
+      rotation: {x: -0.00000000763162, y: -0.0000000612, z: 0.0064295838, w: 0.9999794}
+      scale: {x: 0.9999997, y: 1.0000006, z: 1}
+    - name: Rig1_0001:Character1_LeftHandPinky3
+      parentName: Rig1_0001:Character1_LeftHandPinky2
+      position: {x: -0.010234428, y: -0.016663084, z: -0.0027317798}
+      rotation: {x: -0.00000009098126, y: 0.00000010841479, z: -0.012932153, w: 0.9999164}
+      scale: {x: 1.0000011, y: 1.0000002, z: 0.9999999}
+    - name: Rig1_0001:Character1_LeftHandPinky4
+      parentName: Rig1_0001:Character1_LeftHandPinky3
+      position: {x: -0.0108242715, y: -0.021373205, z: -0.0020744035}
+      rotation: {x: 0.00000007449052, y: -0.000000063760275, z: 0.019787006, w: 0.9998042}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1}
+    - name: Rig1_0001:Character1_RightShoulder
+      parentName: Rig1_0001:Character1_Spine2
+      position: {x: 0.14387527, y: 0.10680997, z: -0.0469733}
+      rotation: {x: -0.0000000078782, y: -0.015138144, z: 0.098078854, w: 0.9950635}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Rig1_0001:Character1_RightArm
+      parentName: Rig1_0001:Character1_RightShoulder
+      position: {x: 0.093234316, y: -0.053015288, z: -0.008182725}
+      rotation: {x: 0.0063112853, y: 0.010890167, z: 0.13479671, w: 0.99079335}
+      scale: {x: 1.0000004, y: 1, z: 1.0000006}
+    - name: Rig1_0001:Character1_RightForeArm
+      parentName: Rig1_0001:Character1_RightArm
+      position: {x: 0.14068793, y: -0.08371911, z: 0.00017676644}
+      rotation: {x: 0.00000003052271, y: -6.4837025e-12, z: 0.00028322986, w: 1}
+      scale: {x: 0.99999964, y: 1, z: 1}
+    - name: Rig1_0001:Character1_RightHand
+      parentName: Rig1_0001:Character1_RightForeArm
+      position: {x: 0.1837728, y: -0.10421315, z: 0.0048223925}
+      rotation: {x: -0.00000000618323, y: -0.0000000057264495, z: -0.0018410339, w: 0.9999984}
+      scale: {x: 0.9999987, y: 0.999999, z: 0.99999994}
+    - name: Rig1_0001:Character1_RightHandThumb1
+      parentName: Rig1_0001:Character1_RightHand
+      position: {x: 0.03359544, y: -0.023472192, z: 0.04455429}
+      rotation: {x: -0.12614818, y: 0.11602599, z: 0.13245843, w: 0.97625786}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000001}
+    - name: Rig1_0001:Character1_RightHandThumb2
+      parentName: Rig1_0001:Character1_RightHandThumb1
+      position: {x: 0.0051145777, y: -0.016367814, z: 0.020396985}
+      rotation: {x: -0.03347364, y: -0.10592461, z: -0.09556069, w: 0.9892056}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Rig1_0001:Character1_RightHandThumb3
+      parentName: Rig1_0001:Character1_RightHandThumb2
+      position: {x: 0.013225569, y: -0.015010465, z: 0.015701145}
+      rotation: {x: -0.000000016822165, y: 0.000000046332367, z: 0.040487144, w: 0.99918014}
+      scale: {x: 0.9999997, y: 1.0000002, z: 0.99999994}
+    - name: Rig1_0001:Character1_RightHandThumb4
+      parentName: Rig1_0001:Character1_RightHandThumb3
+      position: {x: 0.012549607, y: -0.016810523, z: 0.016464176}
+      rotation: {x: -7.953815e-11, y: -0.000000014946144, z: -0.06064786, w: 0.9981593}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Rig1_0001:Character1_RightHandIndex1
+      parentName: Rig1_0001:Character1_RightHand
+      position: {x: 0.09274843, y: -0.039575793, z: 0.03977839}
+      rotation: {x: -0.003549247, y: 0.046242323, z: 0.1769307, w: 0.98313}
+      scale: {x: 1.0000007, y: 1.000001, z: 1}
+    - name: Rig1_0001:Character1_RightHandIndex2
+      parentName: Rig1_0001:Character1_RightHandIndex1
+      position: {x: 0.026961908, y: -0.031254172, z: 0.009031683}
+      rotation: {x: -0.00035344242, y: -0.017449379, z: -0.020247335, w: 0.99964267}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000002}
+    - name: Rig1_0001:Character1_RightHandIndex3
+      parentName: Rig1_0001:Character1_RightHandIndex2
+      position: {x: 0.017903004, y: -0.01892888, z: 0.0050511514}
+      rotation: {x: -0.005628173, y: 0.22482195, z: 0.040032774, w: 0.97356087}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Rig1_0001:Character1_RightHandIndex4
+      parentName: Rig1_0001:Character1_RightHandIndex3
+      position: {x: 0.009145717, y: -0.014958086, z: 0.008722196}
+      rotation: {x: 0.03219084, y: 0.97685707, z: 0.04419315, w: -0.20678774}
+      scale: {x: 1.000001, y: 0.99999994, z: 1.0000013}
+    - name: Rig1_0001:Character1_RightHandMiddle1
+      parentName: Rig1_0001:Character1_RightHand
+      position: {x: 0.09963291, y: -0.0358119, z: 0.01203742}
+      rotation: {x: -0.01950908, y: 0.020030646, z: 0.22902629, w: 0.97301865}
+      scale: {x: 1.0000007, y: 1.000001, z: 1}
+    - name: Rig1_0001:Character1_RightHandMiddle2
+      parentName: Rig1_0001:Character1_RightHandMiddle1
+      position: {x: 0.027716935, y: -0.039506484, z: 0.006011254}
+      rotation: {x: -0.00035346005, y: -0.017449401, z: -0.02024723, w: 0.99964267}
+      scale: {x: 1.0000004, y: 0.9999996, z: 1.0000001}
+    - name: Rig1_0001:Character1_RightHandMiddle3
+      parentName: Rig1_0001:Character1_RightHandMiddle2
+      position: {x: 0.0167656, y: -0.021806654, z: 0.0028345962}
+      rotation: {x: -0.005628144, y: 0.22482198, z: 0.04003269, w: 0.97356087}
+      scale: {x: 1.0000002, y: 1.0000008, z: 0.9999999}
+    - name: Rig1_0001:Character1_RightHandMiddle4
+      parentName: Rig1_0001:Character1_RightHandMiddle3
+      position: {x: 0.008798128, y: -0.016728908, z: 0.0067076795}
+      rotation: {x: 0.03219081, y: 0.976857, z: 0.044193134, w: -0.2067877}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000017}
+    - name: Rig1_0001:Character1_RightHandRing1
+      parentName: Rig1_0001:Character1_RightHand
+      position: {x: 0.1004014, y: -0.040438864, z: -0.010960713}
+      rotation: {x: -0.03653363, y: -0.0102566695, z: 0.2775158, w: 0.95997137}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000002}
+    - name: Rig1_0001:Character1_RightHandRing2
+      parentName: Rig1_0001:Character1_RightHandRing1
+      position: {x: 0.022539884, y: -0.039351337, z: 0.0015979017}
+      rotation: {x: -0.0003534355, y: -0.0174494, z: -0.020247336, w: 0.99964267}
+      scale: {x: 1.0000012, y: 1, z: 1.0000002}
+    - name: Rig1_0001:Character1_RightHandRing3
+      parentName: Rig1_0001:Character1_RightHandRing2
+      position: {x: 0.012267564, y: -0.019505002, z: 0.00038373325}
+      rotation: {x: -0.0056281975, y: 0.22482198, z: 0.040032737, w: 0.97356087}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Rig1_0001:Character1_RightHandRing4
+      parentName: Rig1_0001:Character1_RightHandRing3
+      position: {x: 0.0078027993, y: -0.017047202, z: 0.0042937337}
+      rotation: {x: 0.032190766, y: 0.976857, z: 0.044193175, w: -0.2067877}
+      scale: {x: 1.0000011, y: 0.9999997, z: 1.000001}
+    - name: Rig1_0001:Character1_RightHandPinky1
+      parentName: Rig1_0001:Character1_RightHand
+      position: {x: 0.08699192, y: -0.03765892, z: -0.036007304}
+      rotation: {x: -0.06257739, y: -0.0812029, z: 0.27708083, w: 0.95536196}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1}
+    - name: Rig1_0001:Character1_RightHandPinky2
+      parentName: Rig1_0001:Character1_RightHandPinky1
+      position: {x: 0.015241808, y: -0.026011622, z: -0.0042116405}
+      rotation: {x: -0.00035365205, y: -0.017449409, z: -0.020236485, w: 0.9996429}
+      scale: {x: 0.99999976, y: 1, z: 1.0000002}
+    - name: Rig1_0001:Character1_RightHandPinky3
+      parentName: Rig1_0001:Character1_RightHandPinky2
+      position: {x: 0.010459266, y: -0.016458038, z: -0.0030987533}
+      rotation: {x: -0.0056256982, y: 0.22482237, z: 0.03989328, w: 0.9735666}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: Rig1_0001:Character1_RightHandPinky4
+      parentName: Rig1_0001:Character1_RightHandPinky3
+      position: {x: 0.0100079775, y: -0.021746457, z: 0.0022839573}
+      rotation: {x: 0.03220167, y: 0.9768761, z: 0.04358744, w: -0.2068244}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000015}
+    - name: Rig1_0001:Character1_Neck
+      parentName: Rig1_0001:Character1_Spine2
+      position: {x: -0.000000003159454, y: 0.12642299, z: -0.007819214}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Rig1_0001:Character1_Head
+      parentName: Rig1_0001:Character1_Neck
+      position: {x: 0.000000031123136, y: 0.19961868, z: -0.012346327}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

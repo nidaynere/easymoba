@@ -1,0 +1,34 @@
+{
+	 "clientPrefab":"SkeletonKing",
+     "moveSpeed":4,
+	 "health":80,
+	 "collision":2,
+	 "heroType":1,
+	 "experience":60,
+	 "alias":"Skeleton King",
+	 "vision":50,
+	 "defaultBuffs":
+	 [
+		{
+			"buffType":2,
+			"buffEffect":25,
+			"buffTime":0
+		}
+	 ],
+	 "skills":
+	 [
+		{
+			"clientPrefab":"Melee",
+			"moveSpeed":5,
+			"collision":3,
+			"effect":8,
+			"cooldown":1,
+			"casttime":0.2,
+			"life":0.6,
+			"hitAndDestroy":false,
+			"hitContinous":false,
+			"skillType":0,
+			"botsDecideChance":20
+		}
+	 ]
+}

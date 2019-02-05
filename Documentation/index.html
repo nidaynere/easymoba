@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<title>Latest Updates</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+	<a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+	<a href="https://www.assetstore.unity3d.com/en/#!/content/106794" target="_blank" class="w3-bar-item w3-button w3-padding-large"><img src="images/button/assetstore.png"></a>
+	<a href="index.html" class="w3-bar-item w3-button w3-padding-large">Updates</a>
+    <a href="features.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Features</a>
+    <a href="https://drive.google.com/drive/folders/1nBRQvLlJ42_PmdJKXCltRcsNO3RpGaAA"  target="_blank" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Download Demos</a>
+    <a href="mailto:support@easymoba.com?subject=EasyMOBA_Support" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Support</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="Documentation">Documentation <i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="WhatsEasyMOBA.html" class="w3-bar-item w3-button">What is EasyMOBA?</a>
+        <a href="UnderstandingtheServerArchitecture.html" class="w3-bar-item w3-button">Understanding Server Architecture</a>
+        <a href="UnderstandingtheClientArchitecture.html" class="w3-bar-item w3-button">Understanding Client Architecture</a>
+		<a href="AddingHero.html" class="w3-bar-item w3-button">Adding a Hero</a>
+		<a href="AddingCreature.html" class="w3-bar-item w3-button">Adding a Creature</a>
+		<a href="AddingMap.html" class="w3-bar-item w3-button">Adding a Map</a>
+		<a href="AddingGameMode.html" class="w3-bar-item w3-button">Adding Game Mode</a>
+		<a href="Languages.html" class="w3-bar-item w3-button">Editing & Adding Languages</a>
+		<a href="KeyController.html" class="w3-bar-item w3-button">Key Controller</a>
+		<a href="KeyBinder.html" class="w3-bar-item w3-button">Key Binder</a>
+      </div>
+    </div>
+
+	<div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="VideoTutorials">Video Tutorials <i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+			<a href="https://www.youtube.com/watch?v=tkAbHkk3qiw" target="_blank" class="w3-bar-item w3-button">Installation and Building Client & Server</a>
+			<a href="https://www.youtube.com/watch?v=DgC9T57EJms" target="_blank" class="w3-bar-item w3-button">Adding a Hero</a>
+			<a href="https://www.youtube.com/watch?v=KzEQd_s1TVw" target="_blank" class="w3-bar-item w3-button">Adding a Map</a>
+			<a href="https://www.youtube.com/watch?v=I0qJ9r49IQo" target="_blank" class="w3-bar-item w3-button">Adding a Creature</a>
+            <a href="https://www.youtube.com/watch?v=iKvA9sPy4pk" target="_blank" class="w3-bar-item w3-button">Adding a New Language</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Navbar on small screens -->
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+  <a href="index.html" class="w3-bar-item w3-button w3-padding-large">UPDATES</a>
+  <a href="https://www.youtube.com/channel/UC_Xg7EqRwpsTum-OGa2JW5w" class="w3-bar-item w3-button w3-padding-large">YOUTUBE</a>
+  <a href="https://www.assetstore.unity3d.com/en/#!/content/106794" class="w3-bar-item w3-button w3-padding-large">ASSET STORE</a>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+<!-- The Band Section -->
+<div class="w3-container w3-content w3-padding-64" style="max-width:1200px">
+
+
+<i>18 February 2018</i><br>
+<b>Update #6</b><br>
+GameClient - Fixed: Grinding on high latency.<br>
+GameServer - Fixed: Missing ServerData folder.<br>
+<hr>
+
+<i>16 February 2018</i><br>
+<b>Update #5</b><br>
+GameClient - Fixed: Tweener.cs on GameClient causes fake latency on some mobile devices & pcs, but it was supposed to remove latency.<br>
+So we won't use tweener anymore.<br>
+GameClient - Fixed: If you clicked on Leave session, it will be remembered by UnityEngine.EventSystems so when you press the Submit button you will leave the session after joined to new session.<br>
+GameClient - Fixed: Movement bug after game ends.<br>
+GameClient - Fixed: Scores doesn't show at game ends.<br>
+GameServer - Fixed: Skill request is working after game ends.<br>
+<br><br><i>Demos are updated.</i>
+<hr>
+
+<i>9 February 2018</i><br>
+<b>Update #4</b><br>
+GameServer - Fixed: Hook doesn't work sometimes. Skill.cs - Line:253 <br>
+GameServer - Fixed: Wrong calculation of spamming causes spammer detection.<br>
+GameServer - New: Created skills & buffs stays will be removed at the new round start.<br><br>
+<hr>
+
+<i>3 February 2018</i><br>
+<b>Demo servers are updated</b><br>
+Because of the last patch 0.1d fix on servers, all server demos are updated.<br>
+If you faced with a latency in local area network, try the new demos.<br>
+<a href="https://drive.google.com/open?id=1nBRQvLlJ42_PmdJKXCltRcsNO3RpGaAA" target = "_blank">Google Drive</a>
+
+<hr>
+
+<b>Update #3</b><br>
+<i>2 February 2018</i><br>
+<b>Version 0.1d</b><br>
+Game Server - Fixed: Frame rate is stabilized to 20 to fix lag on some devices.<br>
+Game Server - Fixed: Faster mover skills could not touch.
+<hr>
+
+<b>New Tutorial Video: Installation and Building Client & Server</b><br>
+<i>1 February 2018</i><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkAbHkk3qiw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<hr>
+
+<b>Update #2</b><br>
+<i>30 January 2018</i><br>
+<b>Version 0.1c</b><br>
+GameClient - Fixed auto target on GamePad<br>
+GameClient - New hero: Robot<br>
+GameClient - New skill effect: Hook<br>
+Server - Added new skill type: Hook<br><br>
+Demos are updated. You can try the new hero 'Robot' here<br>
+<a href="https://drive.google.com/drive/folders/1nBRQvLlJ42_PmdJKXCltRcsNO3RpGaAA" target="_blank"><img src="images/button/download.png" /></a>
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtMKkCyThu8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br><br>
+<hr>
+
+<b>Update #1</b><br>
+<i>13 January 2018</i><br>
+<b>Version 0.1b</b><br>
+GameClient - Added AutoTarget system<br>
+GameClient - Added a new 4 team 4vs4vs4vs4 map<br>
+GameClient - Fixed a network message bug on UICastingItem<br>
+Server - Fixed AIAgent map data<br>
+Server - Added a config for the new map<br><br>
+
+Demos are updated. You can try the new update here<br>
+<a href="https://drive.google.com/drive/folders/1nBRQvLlJ42_PmdJKXCltRcsNO3RpGaAA" target="_blank"><img src="images/button/download.png" /></a>
+
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/javeaMUlycw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veNLaj_7rDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br><br>
+<hr>
+
+<i>12 January 2018</i><br>
+<b>Client_Win32.zip is updated.</b><br>
+Client_Win32.zip build was not working because of a DLL error. Now it's working.<br>
+If you have any problems on demos, please report it to support mail.<br>
+<br><br>
+<br>
+<hr>
+
+<i>29 December 2017</i><br>
+<b>New hero sample Priest</b><br>
+Priest hero sample is available now.<br><br>
+Priest's skills:<br><i>
+Heal<br>
+Poison<br>
+Stun<br><br></i>
+Priests heals the teammates by the default buff on him. Also he can poison and slow down the enemy.
+Watch the gameplay<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2vhZQt4IX-c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<hr>
+
+<i>28 December 2017</i><br>
+<b>New hero sample Assassin</b><br>
+Assassin hero sample is available now.<br><br>
+Assassin's skills:<br><i>
+Throwing poison dagger<br>
+Fatal damage<br>
+Instant Teleport<br><br></i>
+Assassins can teleport to low health opponents and kill them instantly.
+Watch the gameplay<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZkPfjwsu6dY?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>
+<hr>
+
+<i>28 December 2017</i><br>
+<b>#Update</b><br>
+New hero selection panel<br>
+Smarter AI Bots<br>
+New hero sample: Assassin<br>
+<br>
+
+<i>24 December 2017</i> <b>All demo builds updated.</b><br>
+-New buffs: Speed up - Damager Object<br>
+-New skill effect types: Damager Object (adds buff the target), Speed (Speed up the target)<br>
+-New hero: Whirlwind Barbarian<br>
+-AI Bots will select the correct heroes for their team.<br>
+-Balanced gameplay.<br>
+<br><hr>
+
+<i>24 December 2017</i><br>
+<b>New hero sample Whirlwind Barbarian</b><br>
+Whirlwind Barbarian can buff herself to speed-up and can turn herself into powerful whirlwind.<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cVws7XwNPno?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>
+
+<hr>
+<i>12 December 2017</i> <b>New hero sample (Doctor) and advanced Bot AI</b><br>
+New hero sample is available.<br>
+He can use Heal, Poison and Stun skills.<br>
+The AI Bots can heal themselves & teammates.<br>
+Also he has a default buff in his json file. He heals the closer agents & himself by 1 point per seconds.<br><br>
+<img src="images/update_doctor_3.jpg"><br><br>
+<img src="images/update_doctor_2.jpg"><br><br>
+<img src="images/update_doctor.jpg"><br>
+<br><br>
+<br>
+
+<hr>
+<i>9 December 2017</i><br><b>Skill Effect Types and Buffs</b><br>
+Now, a skill can have a different effect type like: healing, poison, stun...<br>
+Here is the list of buffs:<br>
+<img src="images/update_buff.jpg">
+<hr>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+  <a href="https://www.youtube.com/channel/UC_Xg7EqRwpsTum-OGa2JW5w" target="_blank"><img src="images/youtube.png"></a>
+  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+</div>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
